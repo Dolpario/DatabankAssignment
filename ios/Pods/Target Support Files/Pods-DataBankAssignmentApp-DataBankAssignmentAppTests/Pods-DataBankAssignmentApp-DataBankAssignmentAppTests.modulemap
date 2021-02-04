@@ -1,0 +1,6 @@
+module Pods_DataBankAssignmentApp_DataBankAssignmentAppTests {
+  umbrella header "Pods-DataBankAssignmentApp-DataBankAssignmentAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
